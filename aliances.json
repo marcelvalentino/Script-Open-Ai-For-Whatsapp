@@ -1,0 +1,14 @@
+{
+  "aliances": [
+    {
+      "name": "Aliansi C",
+      "leader": "Fragway Union",
+      "countries": [
+        "Negara6",
+        "Negara7"
+      ],
+      "formation_date": "2023-03-20",
+      "funds": 7000000
+    }
+  ]
+}
